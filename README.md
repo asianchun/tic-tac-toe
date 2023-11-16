@@ -4,12 +4,17 @@ Welcome to the Tic Tac Toe Game! This project is a Java implementation of the cl
 
 ## Table of Contents
 
+- [Screenshot](#screenshot)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [How to Play](#how-to-play)
 - [Game Rules](#game-rules)
 - [Customisation](#customisation)
 - [Contributing](#contributing)
+
+## Screenshot
+
+![Alt text](/relative/path/to/screenshot.jpg?raw=true "Optional Title")
 
 ## Features
 
