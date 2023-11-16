@@ -14,7 +14,7 @@ Welcome to the Tic Tac Toe Game! This project is a Java implementation of the cl
 
 ## Screenshot
 
-![Alt text](/screenshot.jpg?raw=true "Optional Title")
+![Alt text](/screenshot.png?raw=true "Optional Title")
 
 ## Features
 
